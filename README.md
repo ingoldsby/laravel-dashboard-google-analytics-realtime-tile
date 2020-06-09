@@ -1,7 +1,6 @@
 # A tile to display Google Analytics realtime information
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ingoldsby/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/ingoldsby/laravel-dashboard-google-analytics-realtime-tile)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/ingoldsby/laravel-dashboard-google-analytics-realtime-tile/run-tests?label=tests)](https://github.com/ingoldsby/laravel-dashboard-google-analytics-realtime-tile/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/ingoldsby/laravel-dashboard-google-analytics-realtime-tile.svg?style=flat-square)](https://packagist.org/packages/ingoldsby/laravel-dashboard-google-analytics-realtime-tile)
 
 This tile can be used on [the Laravel Dashboard](https://docs.spatie.be/laravel-dashboard) to display Google Analytics realtime information.
